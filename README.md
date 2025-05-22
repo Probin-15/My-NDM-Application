@@ -46,4 +46,3 @@ Stay tuned for installation instructions, screenshots, and live demo links.
 ![image alt](https://github.com/Probin-15/My-NDM-Application/blob/a1c63ca63bf8144d403b0ed5479ea00934a8ea7f/images/Picture6.jpg)
 
 ![image alt](https://github.com/Probin-15/My-NDM-Application/blob/a1c63ca63bf8144d403b0ed5479ea00934a8ea7f/images/Picture7.jpg)
->>>>>>> c0b604b8905e89a1118d764be755e2dfb2fee490
